@@ -23,7 +23,9 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 🌌 CYBER PROFILE
 
@@ -35,7 +37,9 @@ Mission: Build scalable tech with real-world impact
 Status: Always Building ⚡
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # ⚡ TECH MATRIX
 
@@ -68,14 +72,16 @@ Status: Always Building ⚡
   <img src="https://img.shields.io/badge/Cloudinary-Storage-00F7FF?style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 🔥 ELITE PROJECT SYSTEMS
 
 ## 📈 Stock Market Predictor
 
 ⚡ ML Regression + LSTM Forecasting
-⚡ Multi-Horizon Financial Predictions
+⚡ Multi‑Horizon Financial Predictions
 ⚡ Power BI Interactive Dashboards
 ⚡ Volatility & Market Regime Analysis
 
@@ -84,22 +90,24 @@ Status: Always Building ⚡
 ⚡ Kotlin Android App
 ⚡ Firebase Backend Integration
 ⚡ Cloudinary Image Management
-⚡ Role-Based System Architecture
+⚡ Role‑Based System Architecture
 
 ## 📚 MangaQuiz – Exam Engine
 
 ⚡ OTP Authentication
-⚡ Auto-Save Logic
+⚡ Auto‑Save Logic
 ⚡ Instructor–Student Role System
 ⚡ Secure Result Publishing
 
 ## 🚀 VentureHub – Startup Network
 
-⚡ Multi-Role Django Platform
+⚡ Multi‑Role Django Platform
 ⚡ Investment & Collaboration Workflow
 ⚡ Structured Approval Systems
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 📊 SYSTEM ANALYTICS
 
@@ -112,7 +120,9 @@ Status: Always Building ⚡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-Lohar-itzJeeSKUULL&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 🏆 ACHIEVEMENT GRID
 
@@ -120,7 +130,9 @@ Status: Always Building ⚡
   <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-itzJeeSKUULL&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 🌍 BEYOND THE CODE
 
@@ -130,7 +142,9 @@ Status: Always Building ⚡
 ⚡ Focused on Scalable Innovation
 ⚡ Future Goal: Launch Global Tech Products
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 # 🤝 CONNECT TO THE NETWORK
 
@@ -143,7 +157,9 @@ Status: Always Building ⚡
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer" />
