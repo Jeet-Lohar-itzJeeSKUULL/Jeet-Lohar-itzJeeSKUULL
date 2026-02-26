@@ -50,10 +50,10 @@ Status: Always Building ⚡
 
 ## 🏆 Quantified Impact
 
-• Built ML regression & forecasting models achieving **85%+ predictive accuracy**
-• Developed multi-role systems supporting **3+ distinct user types** with structured permissions
-• Engineered Firebase-backed Android application with **real-time data sync & dynamic UI updates**
-• Designed modular Django backend architectures optimized for scalability
+- • Built ML regression & forecasting models achieving **85%+ predictive accuracy**
+- • Developed multi-role systems supporting **3+ distinct user types** with structured permissions
+- • Engineered Firebase-backed Android application with **real-time data sync & dynamic UI updates**
+- • Designed modular Django backend architectures optimized for scalability
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
