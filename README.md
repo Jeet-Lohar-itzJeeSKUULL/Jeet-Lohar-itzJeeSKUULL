@@ -26,12 +26,6 @@ Passionate about creating technology that is structured, efficient, and impact-d
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=header" />
 </p>
 
-<!-- 🌃 MATRIX EFFECT BACKGROUND -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
