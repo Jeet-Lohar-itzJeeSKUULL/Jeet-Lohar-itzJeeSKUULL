@@ -50,10 +50,10 @@ Status: Always Building ⚡
 
 ## 🏆 Quantified Impact
 
-  • Built ML regression & forecasting models achieving **85%+ predictive accuracy**
-  • Developed multi-role systems supporting **3+ distinct user types** with structured permissions
-  • Engineered Firebase-backed Android application with **real-time data sync & dynamic UI updates**
-  • Designed modular Django backend architectures optimized for scalability
+* Built ML regression & forecasting models achieving **85%+ predictive accuracy**
+* Developed multi-role systems supporting **3+ distinct user types** with structured permissions
+* Engineered Firebase-backed Android application with **real-time data sync & dynamic UI updates**
+* Designed modular Django backend architectures optimized for scalability
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
@@ -100,10 +100,10 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39FF14,100:FF00FF&height=80&section=header&text=🚧%20CURRENTLY%20BUILDING&fontSize=30&animation=fadeIn" />
 </p>
 
-  • Advanced Role-Based Architecture Systems
-  • ML Time Series Forecasting & Model Optimization
-  • Scalable Firebase-backed Android Applications
-  • Production-ready Django backend ecosystems
+* Advanced Role-Based Architecture Systems
+* ML Time Series Forecasting & Model Optimization
+* Scalable Firebase-backed Android Applications
+* Production-ready Django backend ecosystems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
@@ -115,30 +115,30 @@ Status: Always Building ⚡
 
 ## 📈 Stock Market Predictor
 
-  ⚡ ML Regression + LSTM Forecasting
-  ⚡ Multi‑Horizon Financial Predictions
-  ⚡ Power BI Interactive Dashboards
-  ⚡ Volatility & Market Regime Analysis
+⚡ ML Regression + LSTM Forecasting
+⚡ Multi‑Horizon Financial Predictions
+⚡ Power BI Interactive Dashboards
+⚡ Volatility & Market Regime Analysis
 
 ## 🎉 Vintage Studio – Event App
 
-  ⚡ Kotlin Android App
-  ⚡ Firebase Backend Integration
-  ⚡ Cloudinary Image Management
-  ⚡ Role‑Based System Architecture
+⚡ Kotlin Android App
+⚡ Firebase Backend Integration
+⚡ Cloudinary Image Management
+⚡ Role‑Based System Architecture
 
 ## 📚 MangaQuiz – Exam Engine
 
-  ⚡ OTP Authentication
-  ⚡ Auto‑Save Logic
-  ⚡ Instructor–Student Role System
-  ⚡ Secure Result Publishing
+⚡ OTP Authentication
+⚡ Auto‑Save Logic
+⚡ Instructor–Student Role System
+⚡ Secure Result Publishing
 
 ## 🚀 VentureHub – Startup Network
 
-  ⚡ Multi‑Role Django Platform
-  ⚡ Investment & Collaboration Workflow
-  ⚡ Structured Approval Systems
+⚡ Multi‑Role Django Platform
+⚡ Investment & Collaboration Workflow
+⚡ Structured Approval Systems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
@@ -177,11 +177,11 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39FF14,100:FF00FF&height=80&section=header&text=🌍%20BEYOND%20THE%20CODE&fontSize=30&animation=fadeIn" />
 </p>
 
-  ⚡ Analytical Thinker
-  ⚡ System Architecture Enthusiast
-  ⚡ Builder Mindset
-  ⚡ Focused on Scalable Innovation
-  ⚡ Future Goal: Launch Global Tech Products
+⚡ Analytical Thinker
+⚡ System Architecture Enthusiast
+⚡ Builder Mindset
+⚡ Focused on Scalable Innovation
+⚡ Future Goal: Launch Global Tech Products
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
