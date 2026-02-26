@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center" style="font-size:48px;">
   <span style="color:#00F7FF;">⚡ HI EVERYONE ⚡</span><br>
-  <span style="color:#FF00FF;">I'm Jeet Lohar</span>
+  <span style="color:#FF00FF; font-size:52px;">I'm Jeet Lohar</span>
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Cyberpunk+Code+Space+🌌;Designing+Scalable+Digital+Architectures;Engineering+Intelligent+Systems;Machine+Learning+%7C+Django+%7C+Android;Code.+Innovate.+Evolve." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Cyberpunk+Code+Space+🌌;Designing+Scalable+Digital+Architectures;Engineering+Intelligent+Systems;Machine+Learning+%7C+Django+%7C+Android;Code.+Innovate.+Evolve." />
 </p>
 
 <p align="center">
@@ -27,7 +27,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 🌌 CYBER PROFILE
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F7FF,100:FF00FF&height=80&section=header&text=🌌%20CYBER%20PROFILE&fontSize=30&animation=fadeIn" />
+</p>
 
 ```yaml
 Name: Jeet Lohar
@@ -41,7 +43,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# ⚡ TECH MATRIX
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39FF14,100:00F7FF&height=80&section=header&text=⚡%20TECH%20MATRIX&fontSize=30&animation=fadeIn" />
+</p>
 
 ## 💻 Programming
 
@@ -76,7 +80,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 🔥 ELITE PROJECT SYSTEMS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF00FF,100:00F7FF&height=80&section=header&text=🔥%20ELITE%20PROJECT%20SYSTEMS&fontSize=30&animation=fadeIn" />
+</p>
 
 ## 📈 Stock Market Predictor
 
@@ -109,7 +115,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 📊 SYSTEM ANALYTICS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F7FF,100:39FF14&height=80&section=header&text=📊%20SYSTEM%20ANALYTICS&fontSize=30&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeet-Lohar-itzJeeSKUULL&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -124,7 +132,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 🏆 ACHIEVEMENT GRID
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF00FF,100:39FF14&height=80&section=header&text=🏆%20ACHIEVEMENT%20GRID&fontSize=30&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-itzJeeSKUULL&theme=radical&no-frame=true&row=1&column=6" />
@@ -134,7 +144,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 🌍 BEYOND THE CODE
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39FF14,100:FF00FF&height=80&section=header&text=🌍%20BEYOND%20THE%20CODE&fontSize=30&animation=fadeIn" />
+</p>
 
 ⚡ Analytical Thinker
 ⚡ System Architecture Enthusiast
@@ -146,7 +158,9 @@ Status: Always Building ⚡
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
 </p>
 
-# 🤝 CONNECT TO THE NETWORK
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00F7FF,100:FF00FF&height=80&section=header&text=🤝%20CONNECT%20TO%20THE%20NETWORK&fontSize=30&animation=fadeIn" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeet-lohar/">
@@ -166,5 +180,5 @@ Status: Always Building ⚡
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Code.+Innovate.+Dominate.;Build+Systems+That+Scale.;Engineering+The+Future+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Code.+Innovate.+Dominate.;Build+Systems+That+Scale.;Engineering+The+Future+⚡" />
 </p>
