@@ -1,115 +1,101 @@
-<h1 align="center">Hi Everyone 👋, I'm Jeet Lohar</h1>
-<h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 📱 Android Engineer</h3>
+<h1 align="center">
+  <span style="color:#00F7FF;">⚡ HI EVERYONE ⚡</span><br>
+  <span style="color:#FF00FF;">I'm Jeet Lohar</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#00F7FF;">🚀 Full Stack Engineer</span> |
+  <span style="color:#FF00FF;">📊 Data Scientist</span> |
+  <span style="color:#39FF14;">📱 Android Developer</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub+Universe+🌌;I+Build+Scalable+Backend+Systems;I+Design+Data-Driven+Solutions;I+Develop+Production-Ready+Android+Apps;Machine+Learning+%7C+System+Design+%7C+Django+%7C+Android" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Cyberpunk+Code+Space+🌌;Designing+Scalable+Digital+Architectures;Engineering+Intelligent+Systems;Machine+Learning+%7C+Django+%7C+Android;Code.+Innovate.+Evolve." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeet-lohar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeet%20Lohar-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Jeet-Lohar-itzJeeSKUULL&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/followers/Jeet-Lohar-itzJeeSKUULL?style=for-the-badge&color=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=header" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+# 🌌 CYBER PROFILE
 
-I am a **Computer Science Engineer** passionate about building scalable digital systems that solve real-world problems.
-My work sits at the intersection of:
-
-* 🏗 **Backend Engineering** – Designing secure, scalable architectures using Django
-* 📊 **Data Science & Machine Learning** – Turning raw data into strategic insights
-* 📱 **Android Development** – Building production-level mobile applications
-* ⚙️ **System Design** – Writing clean, maintainable, modular code
-
-I don’t just build projects — I build **complete systems**.
+```yaml
+Name: Jeet Lohar
+Role: Full Stack Developer
+Specialization: Backend Systems + Machine Learning + Android
+Mission: Build scalable tech with real-world impact
+Status: Always Building ⚡
+```
 
 ---
 
-## 💡 What I Currently Focus On
+# ⚡ TECH MATRIX
 
-* 🔬 Advanced Django & scalable backend architecture
-* 🤖 Deep Learning & LSTM forecasting models
-* 📈 Data analytics dashboards & business intelligence
-* 🧩 Clean modular application design
-* 🚀 Performance optimization & production readiness
-
----
-
-## 🛠 Tech Arsenal
-
-### 💻 Programming Languages
+## 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,sql" />
 </p>
 
-### 🌐 Backend & Web
+## 🌐 Backend Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,html,css,bootstrap" />
 </p>
 
-### 📊 Data Science & AI
+## 🤖 AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-grey?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-FF00FF?style=flat&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Pandas-Data-00F7FF?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical-39FF14?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-FFD700?style=flat&logo=powerbi" />
 </p>
 
-### 📱 Mobile Development
+## 📱 Mobile Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
-  <img src="https://img.shields.io/badge/Cloudinary-Image%20Storage-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Cloudinary-Storage-00F7FF?style=flat" />
 </p>
 
 ---
 
-## 🔥 Signature Projects
+# 🔥 ELITE PROJECT SYSTEMS
 
-### 📈 Stock Market Predictor & Analytics Dashboard
+## 📈 Stock Market Predictor
 
-An end-to-end financial analytics ecosystem integrating:
+⚡ ML Regression + LSTM Forecasting
+⚡ Multi‑Horizon Financial Predictions
+⚡ Power BI Interactive Dashboards
+⚡ Volatility & Market Regime Analysis
 
-* Regression Models
-* LSTM Deep Learning Forecasting
-* Interactive Power BI Dashboards
-* Multi-horizon predictive insights
+## 🎉 Vintage Studio – Event App
 
-### 🎉 Vintage Studio – Event Management Application
+⚡ Kotlin Android App
+⚡ Firebase Backend Integration
+⚡ Cloudinary Image Management
+⚡ Role‑Based System Architecture
 
-A production-level Android application featuring:
+## 📚 MangaQuiz – Exam Engine
 
-* Firebase backend integration
-* Cloudinary image storage
-* Role-based UI rendering
-* Real-time event booking system
+⚡ OTP Authentication
+⚡ Auto‑Save Logic
+⚡ Instructor–Student Role System
+⚡ Secure Result Publishing
 
-### 📚 MangaQuiz – Intelligent Examination Platform
+## 🚀 VentureHub – Startup Network
 
-A complete Django-based test ecosystem with:
-
-* OTP-based authentication
-* Auto-save mechanism
-* Role-based dashboards
-* Result publish/unpublish logic
-
-### 🚀 VentureHub – Startup Collaboration Platform
-
-A multi-role Django platform connecting:
-Startups • Investors • Manufacturers
-With structured workflows and approval systems.
+⚡ Multi‑Role Django Platform
+⚡ Investment & Collaboration Workflow
+⚡ Structured Approval Systems
 
 ---
 
-## 📊 GitHub Performance Metrics
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeet-Lohar-itzJeeSKUULL&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -122,33 +108,41 @@ With structured workflows and approval systems.
 
 ---
 
-## 🏆 Achievements & Recognition
+# 🏆 ACHIEVEMENT GRID
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-itzJeeSKUULL&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-itzJeeSKUULL&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🌍 Beyond Code
+# 🌍 BEYOND THE CODE
 
-* 📚 Constant learner in AI & system architecture
-* 🧠 Analytical thinker with business insight mindset
-* ⚡ Builder mentality — execution focused
-* 🎯 Long-term goal: Build scalable tech products with global impact
+⚡ Analytical Thinker
+⚡ System Architecture Enthusiast
+⚡ Builder Mindset
+⚡ Focused on Scalable Innovation
+⚡ Future Goal: Launch Global Tech Products
 
 ---
 
-## 🤝 Let’s Connect
+# 🤝 CONNECT TO THE NETWORK
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/jeet-lohar/](https://www.linkedin.com/in/jeet-lohar/)
-* 📧 Email: [jeetloharcrj@gmail.com](mailto:jeetloharcrj@gmail.com)
-* 📧 Work Email: [work.jeetloharcrj@gmail.com](mailto:work.jeetloharcrj@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeet-lohar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jeetloharcrj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-FF00FF?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Analyze.+Build.+Repeat.;Always+Learning.+Always+Evolving.;Engineering+the+Future+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer" />
 </p>
 
-<p align="center">⭐ Turning ideas into scalable systems.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Code.+Innovate.+Dominate.;Build+Systems+That+Scale.;Engineering+The+Future+⚡" />
+</p>
