@@ -1,6 +1,8 @@
 <h1 align="center" style="font-size:48px;">
   <span style="color:#00F7FF;">⚡ HI EVERYONE ⚡</span><br>
-  <span style="color:#FF00FF; font-size:52px;">I'm Jeet Lohar</span>
+  <span style="font-size:60px; font-weight:bold; background: linear-gradient(90deg,#00F7FF,#FF00FF,#39FF14,#00F7FF); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 8px #00F7FF, 0 0 16px #FF00FF;">
+    I'm Jeet Lohar
+  </span>
 </h1>
 
 <h3 align="center">
