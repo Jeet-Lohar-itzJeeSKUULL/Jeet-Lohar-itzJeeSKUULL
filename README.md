@@ -17,6 +17,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=120&section=header" />
 </p>
 
+<!-- 🌃 MATRIX EFFECT BACKGROUND -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+</p>
+
 ---
 
 # 🌌 CYBER PROFILE
@@ -69,7 +75,7 @@ Status: Always Building ⚡
 ## 📈 Stock Market Predictor
 
 ⚡ ML Regression + LSTM Forecasting
-⚡ Multi‑Horizon Financial Predictions
+⚡ Multi-Horizon Financial Predictions
 ⚡ Power BI Interactive Dashboards
 ⚡ Volatility & Market Regime Analysis
 
@@ -78,18 +84,18 @@ Status: Always Building ⚡
 ⚡ Kotlin Android App
 ⚡ Firebase Backend Integration
 ⚡ Cloudinary Image Management
-⚡ Role‑Based System Architecture
+⚡ Role-Based System Architecture
 
 ## 📚 MangaQuiz – Exam Engine
 
 ⚡ OTP Authentication
-⚡ Auto‑Save Logic
+⚡ Auto-Save Logic
 ⚡ Instructor–Student Role System
 ⚡ Secure Result Publishing
 
 ## 🚀 VentureHub – Startup Network
 
-⚡ Multi‑Role Django Platform
+⚡ Multi-Role Django Platform
 ⚡ Investment & Collaboration Workflow
 ⚡ Structured Approval Systems
 
