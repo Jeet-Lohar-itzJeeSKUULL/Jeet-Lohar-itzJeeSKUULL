@@ -11,6 +11,13 @@
   <span style="color:#39FF14;">📱 Android Developer</span>
 </h3>
 
+<p align="center" style="max-width:900px; margin:auto; font-size:18px; line-height:1.6;">
+I design scalable backend systems and intelligent applications focused on performance and clean architecture.<br>
+Strong in Django ecosystems, ML pipelines, and Android engineering with real-world deployment experience.<br>
+Experienced in building multi-role platforms and production-ready mobile systems.<br>
+Passionate about creating technology that is structured, efficient, and impact-driven.
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Cyberpunk+Code+Space+🌌;Designing+Scalable+Digital+Architectures;Engineering+Intelligent+Systems;Machine+Learning+%7C+Django+%7C+Android;Code.+Innovate.+Evolve." />
 </p>
@@ -40,6 +47,13 @@ Specialization: Backend Systems + Machine Learning + Android
 Mission: Build scalable tech with real-world impact
 Status: Always Building ⚡
 ```
+
+## 🏆 Quantified Impact
+
+• Built ML regression & forecasting models achieving **85%+ predictive accuracy**
+• Developed multi-role systems supporting **3+ distinct user types** with structured permissions
+• Engineered Firebase-backed Android application with **real-time data sync & dynamic UI updates**
+• Designed modular Django backend architectures optimized for scalability
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
@@ -77,6 +91,19 @@ Status: Always Building ⚡
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
   <img src="https://img.shields.io/badge/Cloudinary-Storage-00F7FF?style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:39FF14,100:FF00FF&height=80&section=header&text=🚧%20CURRENTLY%20BUILDING&fontSize=30&animation=fadeIn" />
+</p>
+
+• Advanced Role-Based Architecture Systems
+• ML Time Series Forecasting & Model Optimization
+• Scalable Firebase-backed Android Applications
+• Production-ready Django backend ecosystems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
@@ -175,10 +202,6 @@ Status: Always Building ⚡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:FF00FF&height=4&section=header" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F7FF&height=120&section=footer" />
 </p>
 
 <p align="center">
