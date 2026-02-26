@@ -69,7 +69,8 @@ Multi-role Django web platform connecting Startups, Investors & Manufacturers.
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jeet-lohar/
-- 📧 Email: your-email-here
+- 📧 Email: jeetloharcrj@gmail.com
+- 📧 Work Email: work.jeetloharcrj@gmail.com
 
 ---
 
